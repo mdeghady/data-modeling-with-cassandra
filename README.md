@@ -10,6 +10,8 @@ The goal of this project is to define a data model that will help our data scien
 - CreateTables.py Creates a connection to database and creates all tables 
 - ETLDesign.ipynb Contains the design and the test of the ETL process to ensure we can run the given quries
 - ETL.py Implement the ETL process which has designed in ETLDesign.ipynb
+
+# Run project
 To run this project you simply should run two commands in order in command prompt
 - python CreateTables.py
 - python ETL.py
